@@ -51,6 +51,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\IAdminDal.cs" />
+    <Compile Include="Abstract\ICategoryDal.cs" />
+    <Compile Include="Abstract\ICustomerDal.cs" />
+    <Compile Include="Abstract\IGenericDal.cs" />
+    <Compile Include="Abstract\IOrderDal.cs" />
+    <Compile Include="Abstract\IProductDal.cs" />
     <Compile Include="Context\KampContext.cs" />
     <Compile Include="Migrations\202411091752144_mig1.cs" />
     <Compile Include="Migrations\202411091752144_mig1.designer.cs">
@@ -70,7 +76,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Abstract\" />
     <Folder Include="EntityFramework\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
