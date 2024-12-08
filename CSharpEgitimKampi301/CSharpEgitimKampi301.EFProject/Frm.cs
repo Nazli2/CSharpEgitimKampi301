@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CSharpEgitimKampi301.EFProject
 {
-    public partial class Form1 : Form
+    public partial class Frm : Form
     {
-        public Form1()
+        public Frm()
         {
             InitializeComponent();
         }
@@ -60,6 +60,11 @@ namespace CSharpEgitimKampi301.EFProject
             int id = int.Parse(txtId.Text);
             var values = db.Guide.Where(x => x.GuideId == id).ToList();
             dataGridView1.DataSource = values;
+        }
+
+        private void FrmCategory_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

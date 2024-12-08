@@ -1,6 +1,6 @@
 ﻿namespace CSharpEgitimKampi301.EFProject
 {
-    partial class Form1
+    partial class Frm
     {
         /// <summary>
         /// Required designer variable.
@@ -175,7 +175,7 @@
             this.btnUpdate.UseVisualStyleBackColor = false;
             this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
-            // Form1
+            // FrmCategory
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -193,8 +193,9 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
+            this.Name = "FrmCategory";
             this.Text = "Rehber İşlemleri";
+            this.Load += new System.EventHandler(this.FrmCategory_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
