@@ -21,3 +21,4 @@ C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.Presentati
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.pdb
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmCategory.resources
+C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.PresentationLayer\obj\Debug\CSharpEgitimKampi301.PresentationLayer.FrmProduct.resources
