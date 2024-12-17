@@ -10,6 +10,6 @@ C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLa
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\bin\Debug\CSharpEgitimKampi301.EntityLayer.dll.config
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.AssemblyReference.cache
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CoreCompileInputs.cache
-C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.csproj.CopyComplete
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.dll
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEgitimKampi301.BusinessLayer.pdb
+C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.BusinessLayer\obj\Debug\CSharpEg.D5C6C7B9.Up2Date

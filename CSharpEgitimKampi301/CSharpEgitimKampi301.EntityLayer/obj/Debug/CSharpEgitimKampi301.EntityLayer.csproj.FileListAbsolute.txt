@@ -7,6 +7,6 @@ C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLaye
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.AssemblyReference.cache
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CoreCompileInputs.cache
-C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.csproj.CopyComplete
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.dll
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEgitimKampi301.EntityLayer.pdb
+C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EntityLayer\obj\Debug\CSharpEg.8B90B715.Up2Date

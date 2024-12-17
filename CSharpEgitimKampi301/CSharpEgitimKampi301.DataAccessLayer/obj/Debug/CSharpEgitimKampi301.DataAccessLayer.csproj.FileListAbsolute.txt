@@ -10,8 +10,8 @@ C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccess
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.AssemblyReference.cache
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.CopyComplete
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.dll
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.pdb
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.Migrations.mig1.resources
 C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEgitimKampi301.DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\nazli\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.DataAccessLayer\obj\Debug\CSharpEg.01C77B6F.Up2Date
